@@ -46,15 +46,4 @@ hangman_ultimate/
 
 ---
 
-## 👩‍💻 Author
 
-**Vidyashree V Naik**  
-Final Year BTech – Computer Science  
-📧 vidyashreevnaikvidya@gmail.com  
-🔗 GitHub: [@vidyashreevnan](https://github.com/vidyashreevnan)
-
----
-
-## 📃 License
-
-MIT License – free for academic and learning purposes.
